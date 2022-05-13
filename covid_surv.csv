@@ -1,0 +1,141 @@
+,id,country,gender,age,symptom,days,status,age_group
+0,201,France,male,80.0,,20,0,senior
+1,263,Japan,female,85.0,fatigue,22,0,senior
+2,267,Japan,male,75.0,"cold, fever, pneumonia",27,0,senior
+3,292,Japan,male,85.0,"fever, pneumonia",17,0,senior
+4,335,Japan,male,85.0,difficulty breathing,24,0,senior
+5,581,South Korea,female,57.0,,4,0,middle aged
+6,597,South Korea,male,57.0,,3,0,middle aged
+7,598,South Korea,male,59.0,,3,0,middle aged
+8,649,South Korea,male,74.0,,6,0,senior
+9,651,South Korea,male,62.0,,1,0,senior
+10,652,South Korea,male,58.0,,2,0,middle aged
+11,655,South Korea,male,36.0,,2,0,middle aged
+12,657,South Korea,male,75.0,,1,0,senior
+13,993,Phillipines,male,44.0,"fever, cough, sore throat",7,0,middle aged
+14,199,France,male,31.0,,24,1,young adult
+15,200,France,female,30.0,,20,1,young adult
+16,237,Japan,male,35.0,fever,12,1,young adult
+17,427,Malaysia,male,40.0,,16,1,middle aged
+18,428,Malaysia,female,65.0,,21,1,senior
+19,429,Malaysia,male,11.0,,21,1,adolescent
+20,430,Malaysia,male,2.0,,21,1,adolescent
+21,431,Malaysia,female,4.0,"fever, cough, flu",6,1,adolescent
+22,432,Malaysia,female,36.0,,16,1,middle aged
+23,433,Malaysia,male,52.0,,20,1,middle aged
+24,434,Malaysia,female,49.0,,6,1,middle aged
+25,435,Malaysia,male,41.0,,13,1,middle aged
+26,436,Malaysia,male,63.0,fever,17,1,senior
+27,437,Malaysia,male,45.0,,13,1,middle aged
+28,438,Malaysia,male,9.0,,13,1,adolescent
+29,441,Malaysia,female,59.0,fever,20,1,middle aged
+30,442,Malaysia,female,67.0,,19,1,senior
+31,443,Malaysia,female,65.0,,10,1,senior
+32,444,Malaysia,male,31.0,cough,16,1,young adult
+33,446,Malaysia,male,27.0,fever,7,1,young adult
+34,447,Malaysia,female,32.0,sore throat,7,1,young adult
+35,448,Malaysia,female,83.0,,11,1,senior
+36,450,Nepal,male,32.0,,14,1,young adult
+37,451,Singapore,male,66.0,,29,1,senior
+38,452,Singapore,female,53.0,"fever, cough, chills",17,1,middle aged
+39,453,Singapore,male,37.0,,28,1,middle aged
+40,454,Singapore,male,36.0,,20,1,middle aged
+41,455,Singapore,female,56.0,,25,1,middle aged
+42,456,Singapore,male,56.0,,26,1,middle aged
+43,457,Singapore,male,35.0,,11,1,young adult
+44,458,Singapore,female,56.0,,25,1,middle aged
+45,459,Singapore,male,56.0,,30,1,middle aged
+46,460,Singapore,male,56.0,,19,1,middle aged
+47,461,Singapore,female,31.0,,13,1,young adult
+48,462,Singapore,female,37.0,,17,1,middle aged
+49,463,Singapore,female,73.0,,15,1,senior
+50,464,Singapore,male,31.0,,20,1,young adult
+51,465,Singapore,female,47.0,fever,18,1,middle aged
+52,466,Singapore,male,38.0,,28,1,middle aged
+53,467,Singapore,female,47.0,fever,12,1,middle aged
+54,469,Singapore,female,28.0,"fever, sore throat",24,1,young adult
+55,471,Singapore,female,44.0,,16,1,middle aged
+56,474,Singapore,female,32.0,,11,1,young adult
+57,476,Singapore,female,42.0,,4,1,middle aged
+58,477,Singapore,male,0.5,,16,1,adolescent
+59,478,Singapore,male,45.0,,21,1,middle aged
+60,479,Singapore,male,41.0,fever,15,1,middle aged
+61,480,Singapore,male,27.0,,24,1,young adult
+62,481,Singapore,male,53.0,,25,1,middle aged
+63,482,Singapore,female,42.0,,17,1,middle aged
+64,483,Singapore,female,39.0,,20,1,middle aged
+65,484,Singapore,female,40.0,,16,1,middle aged
+66,486,Singapore,female,38.0,,18,1,middle aged
+67,488,Singapore,female,52.0,,15,1,middle aged
+68,489,Singapore,male,51.0,,18,1,middle aged
+69,490,Singapore,male,36.0,,13,1,middle aged
+70,494,Singapore,male,37.0,,19,1,middle aged
+71,495,Singapore,female,2.0,,4,1,adolescent
+72,496,Singapore,male,35.0,,19,1,young adult
+73,498,Singapore,male,34.0,,16,1,young adult
+74,499,Singapore,male,46.0,,23,1,middle aged
+75,500,Singapore,male,62.0,,14,1,senior
+76,501,Singapore,male,48.0,,17,1,middle aged
+77,505,Singapore,male,30.0,,20,1,young adult
+78,506,Singapore,male,30.0,,14,1,young adult
+79,507,Singapore,male,26.0,,10,1,young adult
+80,508,Singapore,male,55.0,,15,1,middle aged
+81,509,Singapore,male,61.0,,19,1,senior
+82,512,Singapore,female,44.0,,16,1,middle aged
+83,513,Singapore,female,54.0,,11,1,middle aged
+84,514,Singapore,male,50.0,,21,1,middle aged
+85,515,Singapore,female,61.0,,3,1,senior
+86,516,Singapore,male,28.0,,22,1,young adult
+87,520,Singapore,female,27.0,,18,1,young adult
+88,523,Singapore,male,43.0,,17,1,middle aged
+89,526,Singapore,male,1.0,,1,1,adolescent
+90,527,Singapore,male,35.0,,8,1,young adult
+91,531,Singapore,male,50.0,,9,1,middle aged
+92,533,Singapore,male,54.0,,24,1,middle aged
+93,534,Singapore,female,35.0,,17,1,young adult
+94,537,Singapore,male,32.0,,2,1,young adult
+95,541,Singapore,female,58.0,,33,1,middle aged
+96,544,South Korea,female,35.0,"high fever, chills, muscle pain",19,1,young adult
+97,545,South Korea,male,55.0,"fever, sore throat",25,1,middle aged
+98,549,South Korea,male,56.0,,20,1,middle aged
+99,552,South Korea,female,28.0,,25,1,young adult
+100,553,South Korea,female,52.0,headache,21,1,middle aged
+101,555,South Korea,male,48.0,,17,1,middle aged
+102,556,South Korea,male,28.0,,23,1,young adult
+103,557,South Korea,female,40.0,,16,1,middle aged
+104,558,South Korea,male,43.0,,22,1,middle aged
+105,559,South Korea,female,42.0,chills,25,1,middle aged
+106,561,South Korea,female,21.0,,14,1,young adult
+107,563,South Korea,female,41.0,,18,1,middle aged
+108,565,South Korea,male,46.0,,11,1,middle aged
+109,567,South Korea,male,28.0,sore throat,20,1,young adult
+110,568,South Korea,female,73.0,"fever, cough, sore throat",13,1,senior
+111,580,South Korea,male,49.0,,7,1,middle aged
+112,594,South Korea,female,61.0,,7,1,senior
+113,606,South Korea,female,52.0,,8,1,middle aged
+114,608,South Korea,female,50.0,,7,1,middle aged
+115,695,Thailand,female,73.0,fever,24,1,senior
+116,711,Thailand,male,50.0,,16,1,middle aged
+117,733,USA,male,35.0,,35,1,young adult
+118,734,USA,female,61.0,,21,1,senior
+119,738,USA,male,65.0,,9,1,senior
+120,751,Vietnam,male,66.0,fever,26,1,senior
+121,752,Vietnam,male,28.0,fever,15,1,young adult
+122,759,Vietnam,male,30.0,,14,1,young adult
+123,760,Vietnam,female,42.0,fever,20,1,middle aged
+124,761,Vietnam,female,16.0,,14,1,adolescent
+125,763,Vietnam,female,29.0,,10,1,young adult
+126,764,Vietnam,female,55.0,"fever, headache, runny nose",16,1,middle aged
+127,767,Australia,male,35.0,,15,1,young adult
+128,768,Australia,male,43.0,,20,1,middle aged
+129,769,Australia,male,53.0,,10,1,middle aged
+130,771,Australia,female,21.0,,9,1,young adult
+131,782,Canada,male,56.0,"fever, cough",5,1,middle aged
+132,795,Sri Lanka,female,40.0,fever,25,1,middle aged
+133,850,UAE,female,73.0,,17,1,senior
+134,851,UAE,female,36.0,,29,1,middle aged
+135,852,UAE,male,41.0,,18,1,middle aged
+136,853,UAE,male,8.0,,18,1,adolescent
+137,888,Hong Kong,male,25.0,"cough, runny nose, diarrhea",18,1,young adult
+138,972,UK,male,53.0,,9,1,middle aged
+139,994,Phillipines,female,38.0,,6,1,middle aged
